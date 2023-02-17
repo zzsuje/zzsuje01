@@ -2,29 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/08.zjj/</loc>
+    <loc>http://example.org/01.english/</loc>
     <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/09.english/</loc>
-    <lastmod>2023-02-15T17:30:10+08:00</lastmod>
+    <loc>http://example.org/02.maths/</loc>
+    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/basics/</loc>
-    <lastmod>2023-02-15T14:40:22+08:00</lastmod>
+    <loc>http://example.org/03.chinese/</loc>
+    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/04.life/</loc>
+    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/05.outclass/</loc>
+    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
+    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/02.maths/math/chinese3b_01/</loc>
+    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/03.chinese/chinese3/chinese3_01unit/</loc>
+    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/04.life/chinese3/chinese3_01unit/</loc>
+    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/05.outclass/chinese3/chinese3_01unit/</loc>
+    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/02.maths/math/</loc>
+    <lastmod>2023-02-17T09:54:44+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/03.chinese/chinese3/</loc>
+    <lastmod>2023-02-17T09:54:44+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/04.life/chinese3/</loc>
+    <lastmod>2023-02-17T09:54:44+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/05.outclass/chinese3/</loc>
+    <lastmod>2023-02-17T09:54:44+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/01.english/english3b/english3b_1chapter/</loc>
     <lastmod>2023-02-15T17:33:00+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/08.zjj/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/%E8%8B%B1%E8%AF%AD%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%AF%BE%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2023-02-15T17:33:00+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/08.zjj/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://example.org/01.english/english3b/</loc>
     <lastmod>2023-02-15T17:32:35+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/basics/first-content/</loc>
-    <lastmod>2023-02-15T14:41:14+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/basics/second-content/</loc>
-    <lastmod>2023-02-15T14:41:14+08:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
