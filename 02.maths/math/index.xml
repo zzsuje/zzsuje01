@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Feb 2023 09:54:44 +0800</lastBuildDate><atom:link href="http://example.org/02.maths/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>奥数01</title>
+      <link>http://example.org/02.maths/math/chinese3b_01_test/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/02.maths/math/chinese3b_01_test/</guid>
+      <description>奥数题01 </description>
+    </item>
+    
+    <item>
       <title>数学三年级下册知识点总结</title>
       <link>http://example.org/02.maths/math/chinese3b_01/</link>
       <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
