@@ -11,10 +11,19 @@
     <loc>http://example.org/03.chinese/</loc>
     <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/04.life/</loc>
+    <loc>http://example.org/07.life/</loc>
     <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/05.outclass/</loc>
+    <loc>http://example.org/04.chineseoutclass/</loc>
+    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/05.englishoutclass/</loc>
+    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/08.outclass/</loc>
+    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/09.picture/</loc>
     <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
@@ -26,20 +35,29 @@
     <loc>http://example.org/02.maths/math/chinese3b_01/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/03.chinese/chinese3/chinese3_01unit/</loc>
+    <loc>http://example.org/04.chineseoutclass/chinese3outclass/chinese3_01unit/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/04.life/chinese3/chinese3_01unit/</loc>
+    <loc>http://example.org/07.life/chinese3/chinese3_01unit/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/05.outclass/chinese3/chinese3_01unit/</loc>
+    <loc>http://example.org/08.outclass/chinese3/chinese3_01unit/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/03.chinese/chinese3/chinese3_01unit_test/</loc>
+    <loc>http://example.org/09.picture/picture02/chinese3_01unit/</loc>
+    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/04.chineseoutclass/chinese3outclass/chinese3_01unit_test/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
   </url><url>
     <loc>http://example.org/03.chinese/chinese3/chinese3_01unit_pemo/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/04.chineseoutclass/chinese3outclass/chinese3_01unit_pemo/</loc>
+    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/04.chineseoutclass/chinese3outclass/</loc>
+    <lastmod>2023-02-17T09:54:44+08:00</lastmod>
   </url><url>
     <loc>http://example.org/02.maths/math/</loc>
     <lastmod>2023-02-17T09:54:44+08:00</lastmod>
@@ -47,19 +65,28 @@
     <loc>http://example.org/03.chinese/chinese3/</loc>
     <lastmod>2023-02-17T09:54:44+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/04.life/chinese3/</loc>
+    <loc>http://example.org/07.life/chinese3/</loc>
     <lastmod>2023-02-17T09:54:44+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/05.outclass/chinese3/</loc>
+    <loc>http://example.org/08.outclass/chinese3/</loc>
+    <lastmod>2023-02-17T09:54:44+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/09.picture/picture02/</loc>
     <lastmod>2023-02-17T09:54:44+08:00</lastmod>
   </url><url>
     <loc>http://example.org/01.english/english3b/english3b_1chapterrecord/</loc>
+    <lastmod>2023-02-15T17:33:00+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/05.englishoutclass/english3boutclass/english3bco02/</loc>
     <lastmod>2023-02-15T17:33:00+08:00</lastmod>
   </url><url>
     <loc>http://example.org/01.english/english3b/english3b_1chapter/</loc>
     <lastmod>2023-02-15T17:33:00+08:00</lastmod>
   </url><url>
     <loc>http://example.org/01.english/english3b/</loc>
+    <lastmod>2023-02-15T17:32:35+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/05.englishoutclass/english3boutclass/</loc>
     <lastmod>2023-02-15T17:32:35+08:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
